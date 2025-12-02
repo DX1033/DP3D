@@ -1,0 +1,59 @@
+body {
+    background-color: rgb(191, 191, 191);
+}
+table {
+    background-color: rgb(255, 255, 179);
+    width: 80%;
+    align-self: center;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    font-style: italic;
+}
+.aaa {
+    background-color: rgb(255, 255, 141);
+    width: 100%;
+}
+.aab {
+    background-color: rgb(175, 5, 5);
+    width: 100%;
+}
+.bbb {
+    color: white;
+}
+h4 {
+    text-align: center;
+}
+a {
+    padding: 15px;
+}
+.ccc {
+    width: 15%;
+    background-color: white;
+    height: 150px;
+}
+.ccb {
+    background-color: white;
+    height: 300px;
+}
+.bbv {
+    color: rgb(19, 1, 19);
+}
+h2 {
+    text-align: center;
+    background-color: rgb(175, 5, 5);
+    color: white;
+}
+.cbb {
+    text-align: left;
+}
+.cbc {
+    text-align: left;
+}
+footer {
+    background-color: rgb(175, 5, 5);
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
